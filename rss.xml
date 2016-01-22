@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[quotations]]></title>
         <description><![CDATA[quotations]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/quotations/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jan 2016 21:30:52 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 22 Jan 2016 21:32:50 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/quotations/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <link>undefinedbcb976e4-9915-4b54-8697-a8357150cf05/index.html</link>
+            <link>https://thegrid.ai/quotations/29f95110-7aa7-4750-bb3f-db9969d184a0/index.html</link>
+            <guid isPermaLink="false">29f95110-7aa7-4750-bb3f-db9969d184a0</guid>
+            <pubDate>Fri, 22 Jan 2016 21:32:50 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>"Every man I meet is my superior in some way. In that, I learn of him." Emerson</p>]]></description>
+            <link>https://thegrid.ai/quotations/bcb976e4-9915-4b54-8697-a8357150cf05/index.html</link>
             <guid isPermaLink="false">bcb976e4-9915-4b54-8697-a8357150cf05</guid>
             <pubDate>Fri, 22 Jan 2016 21:29:35 GMT</pubDate>
         </item>
