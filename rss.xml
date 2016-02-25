@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Quotations]]></title>
         <description><![CDATA[Quotations]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/quotations/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Feb 2016 03:45:16 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 25 Feb 2016 03:49:04 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/quotations/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Metrics are the results of management, not the requirement of an employee.</p>]]></description>
-            <link>undefinedd54edb45-4ca8-4ea1-baad-11ed40118e47/index.html</link>
+            <title><![CDATA[Dennis Natali]]></title>
+            <description><![CDATA[<article><h1>Dennis Natali</h1><p>Metrics are the results of management, not the requirement of an employee.</p></article>]]></description>
+            <link>https://thegrid.ai/quotations/d54edb45-4ca8-4ea1-baad-11ed40118e47/index.html</link>
             <guid isPermaLink="false">d54edb45-4ca8-4ea1-baad-11ed40118e47</guid>
-            <pubDate>Thu, 25 Feb 2016 03:45:14 GMT</pubDate>
+            <pubDate>Thu, 25 Feb 2016 03:45:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
