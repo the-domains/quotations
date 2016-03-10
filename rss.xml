@@ -4,21 +4,21 @@
         <description><![CDATA[Quotations]]></description>
         <link>https://thegrid.ai/quotations/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Mar 2016 17:05:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2016 17:05:39 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/quotations/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Dennis Natali]]></title>
+            <description><![CDATA[<h1>Dennis Natali</h1>]]></description>
+            <link>https://thegrid.ai/quotations/d54edb45-4ca8-4ea1-baad-11ed40118e47/index.html</link>
+            <guid isPermaLink="false">d54edb45-4ca8-4ea1-baad-11ed40118e47</guid>
+            <pubDate>Thu, 10 Mar 2016 17:05:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Life]]></title>
             <description><![CDATA[<h1>Life</h1>]]></description>
             <link>https://thegrid.ai/quotations/86e565d2-9eb4-4e1a-9efd-3f0e1a1b71f6/index.html</link>
             <guid isPermaLink="false">86e565d2-9eb4-4e1a-9efd-3f0e1a1b71f6</guid>
             <pubDate>Thu, 10 Mar 2016 17:05:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dennis Natali]]></title>
-            <description><![CDATA[<h1>Dennis Natali</h1>]]></description>
-            <link>https://thegrid.ai/quotations/d54edb45-4ca8-4ea1-baad-11ed40118e47/index.html</link>
-            <guid isPermaLink="false">d54edb45-4ca8-4ea1-baad-11ed40118e47</guid>
-            <pubDate>Thu, 25 Feb 2016 04:01:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
